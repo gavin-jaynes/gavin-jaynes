@@ -1,7 +1,7 @@
 - 👋 Hi, I’m gavin-jaynes
 - 👀 I’m interested in Data story telling
 - 🌱 I’m currently learning Python & Java
-- 🙏 I’m looking to collaborate on ETL/ELT pipelines and Data storytelling!
+- 🙏 I’m looking to gain experience in research and data analytics.
 - 📫 Reach me on LinkedIn!
 
 
